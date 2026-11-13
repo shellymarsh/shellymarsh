@@ -10,16 +10,4 @@
 
 <img width="736" height="548" alt="3e4b26b2a1e0004ec7afe38bd8a2d404" src="https://github.com/user-attachments/assets/8ee08b39-d3df-4c4d-aa65-9f122e2194c2" />
 
-
-aww I adore stan and shelly 🎀
-
-
-
-
-
-<img width="736" height="663" alt="5a4621626557ca916361ecaec4098c64" src="https://github.com/user-attachments/assets/58c42215-2e3b-40a4-a7b5-44bd1c706afb" />
-
-
-
-
-me irl
+le wip here lmaoo
