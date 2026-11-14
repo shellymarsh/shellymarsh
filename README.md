@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="#kevlly">
-  <img src="https://cdn.phototourl.com/member/2026-11-14-2b7bc36a-b58e-4e87-a762-da93666ee479.png" width="500">
-</a>
+
 
 <br>
 
