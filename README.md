@@ -5,13 +5,13 @@
 
 <br><br>
 
-<span style="color:#ffc0cb">I'm so tall, can't get over me</span>
+![](https://img.shields.io/badge/I'm_so_tall,_can't_get_over_me-ffc0cb?style=for-the-badge)
 <br>
-<span style="color:#ffc0cb">I'm so low, can't get underneath</span>
+![](https://img.shields.io/badge/I'm_so_low,_can't_get_underneath-ffc0cb?style=for-the-badge)
 <br>
-<span style="color:#ffd166">I must be all these things</span>
+![](https://img.shields.io/badge/I_must_be_all_these_things-ffd166?style=for-the-badge)
 <br>
-<span style="color:#ffd166">For I just threw out the</span> <span style="color:#ff69b4">love of my dreams</span>
+![](https://img.shields.io/badge/For_I_just_threw_out_the_love_of_my_dreams-ff69b4?style=for-the-badge)
 
 <br><br>
 
@@ -22,8 +22,8 @@
   <img src="https://cdn.phototourl.com/member/2026-11-14-d3f4dda6-d12d-44e6-b4ff-ae4dfa4d407b.png" width="200">
 </a>
 
-<br>
+<br><br>
 
-[kevlly](https://img.shields.io/badge/♫_kevlly-12,200-ff8fab?style=flat)
+![](https://img.shields.io/badge/♫_kevlly-12,200-ff8fab?style=for-the-badge)
 
 </div>
