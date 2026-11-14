@@ -6,17 +6,17 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF8FAB&center=true&vCenter=true&width=435&lines=(%CB%B6%CB%86%E1%97%9C%CB%86%CB%B5)+%CB%96+%DD%81%E2%99%AC%E2%8B%86.%CB%9A%F0%9D%84%9E" alt="(˶ˆᗜˆ˵) ˖ ݁♬⋆.˚𝄞">
+<img src="https://capsule-render.vercel.app/api?type=text&fontColor=FF8FAB&fontSize=22&text=(˶ˆᗜˆ˵)%20˖%20݁♬⋆.˚𝄞" width="400">
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=I'm+so+tall,+can't+get+over+me" alt="I'm so tall, can't get over me">
+<img src="https://capsule-render.vercel.app/api?type=text&fontColor=FFC0CB&fontSize=20&text=I'm%20so%20tall,%20can't%20get%20over%20me" width="450">
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=I'm+so+low,+can't+get+underneath" alt="I'm so low, can't get underneath">
+<img src="https://capsule-render.vercel.app/api?type=text&fontColor=FFC0CB&fontSize=20&text=I'm%20so%20low,%20can't%20get%20underneath" width="450">
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD166&center=true&vCenter=true&width=435&lines=I+must+be+all+these+things" alt="I must be all these things">
+<img src="https://capsule-render.vercel.app/api?type=text&fontColor=FFD166&fontSize=20&text=I%20must%20be%20all%20these%20things" width="450">
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=For+I+just+threw+out+the+love+of+my+dreams" alt="For I just threw out the love of my dreams">
+<img src="https://capsule-render.vercel.app/api?type=text&fontColor=FF69B4&fontSize=20&text=For%20I%20just%20threw%20out%20the%20love%20of%20my%20dreams" width="450">
 
 <br><br>
 
