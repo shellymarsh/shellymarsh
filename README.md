@@ -18,7 +18,7 @@
 
 <br><br>
 
-<a href="https://16sixteen.straw.page">
+<a href="https://sixteenshelly.straw.page">
   <img src="https://cdn.phototourl.com/member/2026-11-14-cb7d7f03-db07-4eef-83b8-2e91b7c9f012.png" width="300">
 </a>
 <a href="https://surroundeddark.atabook.org">
@@ -65,3 +65,5 @@
 </table>
 
 </div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=I'm+so+low,+can't+get+underneath" alt="strawpage is not made by me!thanks to @calciouscatabers !">
