@@ -11,10 +11,10 @@
 <br>
 ![](https://img.shields.io/badge/I_must_be_all_these_things-ffd166?style=for-the-badge)
 <br>
-![](https://img.shields.io/badge/For_I_just_threw_out_the_love_of_my_dreams-ff69b4?style=for-the-badge)
+![](https://img.shields.io/badge/For_I_just_threw_out_the_love_of_my_dreams!-ff69b4?style=for-the-badge)
 
 <br><br>
-
+(　＾ω＾) ヽ(o´3`o)ﾉ
 <a href="https://16sixteen.straw.page">
   <img src="https://cdn.phototourl.com/member/2026-11-14-cb7d7f03-db07-4eef-83b8-2e91b7c9f012.png" width="200">
 </a>
