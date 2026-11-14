@@ -16,7 +16,7 @@
 <br>
 <img src="https://img.shields.io/badge/I_must_be_all_these_things-ffd166?style=flat-square" width="380">
 <br>
-<img src="https://img.shields.io/badge/For_I_just_threw_out_the_love_of_my_dreams-ff69b4?style=flat-square" width="380">
+<img src="https://img.shields.io/badge/For_I_just_threw_out_the_love_of_my_dreams!-ff69b4?style=flat-square" width="380">
 
 <br><br>
 
