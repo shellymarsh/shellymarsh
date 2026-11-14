@@ -31,3 +31,11 @@
 <img src="https://img.shields.io/badge/♫_kevlly-12,200-ff8fab?style=for-the-badge" width="250">
 
 </div>
+
+<div align="center">
+
+<a href="https://open.spotify.com/search/Weezer%20I%20Just%20Threw%20Out%20The%20Love%20Of%20My%20Dreams">
+  <img src="https://img.shields.io/badge/♫_now_playing:_I_Just_Threw_Out_The_Love_Of_My_Dreams_-_Weezer-ff8fab?style=for-the-badge&logo=spotify&logoColor=white">
+</a>
+
+</div>
