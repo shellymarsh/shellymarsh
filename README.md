@@ -6,17 +6,17 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=text&fontColor=FF8FAB&fontSize=22&text=(˶ˆᗜˆ˵)%20˖%20݁♬⋆.˚𝄞" width="400">
+### (˶ˆᗜˆ˵) ˖ ݁♬⋆.˚𝄞 💗
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=text&fontColor=FFC0CB&fontSize=20&text=I'm%20so%20tall,%20can't%20get%20over%20me" width="450">
+<img src="https://img.shields.io/badge/I'm_so_tall,_can't_get_over_me-ffc0cb?style=flat-square" width="380">
 <br>
-<img src="https://capsule-render.vercel.app/api?type=text&fontColor=FFC0CB&fontSize=20&text=I'm%20so%20low,%20can't%20get%20underneath" width="450">
+<img src="https://img.shields.io/badge/I'm_so_low,_can't_get_underneath-ffc0cb?style=flat-square" width="380">
 <br>
-<img src="https://capsule-render.vercel.app/api?type=text&fontColor=FFD166&fontSize=20&text=I%20must%20be%20all%20these%20things" width="450">
+<img src="https://img.shields.io/badge/I_must_be_all_these_things-ffd166?style=flat-square" width="380">
 <br>
-<img src="https://capsule-render.vercel.app/api?type=text&fontColor=FF69B4&fontSize=20&text=For%20I%20just%20threw%20out%20the%20love%20of%20my%20dreams" width="450">
+<img src="https://img.shields.io/badge/For_I_just_threw_out_the_love_of_my_dreams-ff69b4?style=flat-square" width="380">
 
 <br><br>
 
