@@ -8,11 +8,11 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=I'm+so+tall,+can't+get+over+me" alt="I'm so tall, can't get over me">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=I'm+so+tall,+can't+get+over+me" alt="I'm so tall, can't get over me!">
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=I'm+so+low,+can't+get+underneath" alt="I'm so low, can't get underneath">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=I'm+so+low,+can't+get+underneath" alt="I'm so low, can't get under me!">
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD166&center=true&vCenter=true&width=435&lines=I+must+be+all+these+things" alt="I must be all these things">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD166&center=true&vCenter=true&width=435&lines=I+must+be+all+these+things" alt="I must be all these things ^_^;">
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=For+I+just+threw+out+the+love+of+my+dreams" alt="for I just threw out the love of my dreams!">
 
