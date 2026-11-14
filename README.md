@@ -32,27 +32,3 @@
 
 </div>
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="220">
-
-<video src="https://github.com/shellymarsh/shellymarsh/https://github.com/user-attachments/assets/da2ad3b4-1e95-4226-9f58-be77618253cb></video>
-
-</td>
-<td align="center" width="300">
-
-🎧 <b>now playing</b><br>
-<i>i just threw out the love of my dreams</i><br>
-<b>Weezer</b><br><br>
-
-<a href="https://open.spotify.com/search/Weezer%20I%20Just%20Threw%20Out%20The%20Love%20Of%20My%20Dreams">
-  <img src="https://img.shields.io/badge/♫_listen_on_spotify-ff8fab?style=for-the-badge&logo=spotify&logoColor=white">
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
