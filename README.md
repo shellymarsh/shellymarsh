@@ -16,7 +16,7 @@
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD166&center=true&vCenter=true&width=435&lines=I+must+be+all+these+things" alt="I must be all these things">
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=For+I+just+threw+out+the+love+of+my+dreams" alt="For I just threw out the love of my dreams!">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=For+I+just+threw+out+the+love+of+my+dreams" alt="For I just threw out the love of my dreams">
 
 <br><br>
 
@@ -30,6 +30,6 @@
 <br><br>
 
 <a id="kevlly"></a>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF8FAB&center=true&vCenter=true&width=435&lines=%E2%99%AB+kevlly+12,200" alt="kevlly">
+<img src="https://img.shields.io/badge/♫_kevlly-12,200-ff8fab?style=for-the-badge" width="250">
 
 </div>
