@@ -28,7 +28,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=F5D5D5&center=true&vCenter=true&multiline=true&width=550&height=80&lines=%22You%27re+beautiful%22" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=F5D5D5&center=true&vCenter=true&multiline=true&width=550&height=80&lines=%22You%27re+full+of+shit%22" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=1000&color=F5D5D5&center=true&vCenter=true&multiline=true&width=550&height=80&lines=%22You%27re+full+of+sh!t%22" />
 
 
 
