@@ -66,4 +66,4 @@
 
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=+strawpage+is+not+made+by+me+!,+thanks+to+@calciouscatabers" alt="strawpage is not made by me!thanks to @calciouscatabers !">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFC0CB&center=true&vCenter=true&width=435&lines=+strawpage+is+not+mine!,+thanks+to+@calciouscatabers" alt="strawpage is not made by me!thanks to @calciouscatabers !">
